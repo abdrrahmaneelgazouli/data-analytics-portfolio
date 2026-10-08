@@ -1,20 +1,16 @@
-# power-bi-portfolio
+# 📊 Sales Report - Q1 2019 | Power BI Dashboard
 
+![Sales Dashboard](./dashboard.jpg)
 
-## Project 01: Q1 2019 Supermarket Sales
+## Overview
+This Power BI dashboard analyzes sales performance for Q1 2019, providing insights into revenue, product performance, and customer behavior.
 
-![Dashboard](../dashboard.jpg
-
-> **Note:** If image not showing, file name is the long one starting with 36107... Change the name above to match exactly what you see in your files.
-
-### 📌 Business Problem
-Analyze Q1 2019 sales performance to understand February drop and city profitability.
-
-### 📊 KPIs
+## 📈 KPIs
 - **Total Sales:** 169.12K
-- **Gross Income:** 8.05K | **Margin:** 4.7%
-- **COGS:** 161.06K
+- **Gross Income:** 8.05K  
+- **Total COGS:** 161.06K
 
-### 🔍 Key Insights
-1. **City:** Naypyitaw (Branch C) leads with 36.07% - 60.99K
-2. **Issue:** Feb sales dropped -14% (
+## 🔍 Key Insights
+- Sales analysis by Product Line, City, and Gender
+- Monthly sales trends and performance
+- Customer type and payment method
