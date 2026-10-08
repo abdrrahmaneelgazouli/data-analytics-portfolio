@@ -3,7 +3,7 @@
 
 ## Project 01: Q1 2019 Supermarket Sales
 
-![Dashboard](./3610787e-e3b4-3c95-d6fd-8e1b1b2b1b1b.png)
+![Dashboard](../dashboard.jpg
 
 > **Note:** If image not showing, file name is the long one starting with 36107... Change the name above to match exactly what you see in your files.
 
