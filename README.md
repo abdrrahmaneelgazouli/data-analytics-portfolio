@@ -2,9 +2,6 @@
 
 **Tools:** Power BI | DAX | Data Visualization
 
-**Dashboard:**
-![Sales Report Q1 2019](sales-report-q1-2019-fixed.png)
-
 **Overview:**
 Analyzed 1000+ supermarket transactions worth $169.12K in Q1 2019 across 3 branches (A, B, C) and 3 cities.
 
@@ -31,8 +28,6 @@ Focus marketing on Naypyitaw city and Sports category, investigate February drop
 
 **Tools:** Excel | Pivot Charts | Slicers | Data Analysis
 
-**Dashboard:**
-![Bike Dashboard](bike2_enhanced.png)
 
 **What I Analyzed:**
 Customer dataset to understand who buys bikes based on Income, Gender, Age, and Commute Distance.
@@ -51,8 +46,6 @@ Customer dataset to understand who buys bikes based on Income, Gender, Age, and 
 
 **Tools:** Excel | Pivot Charts | Slicers | Dashboard Design
 
-**Dashboard:**
-![Costa Cafe Dashboard](costa-cafe-enhanced.png)
 
 **Overview:**
 Analyzed 1,313 coffee orders worth $4,267.58 across 8 menu items to understand sales performance, customer preferences, and operational peaks.
@@ -84,8 +77,6 @@ Analyzed 1,313 coffee orders worth $4,267.58 across 8 menu items to understand s
 
 **Tools:** Power BI | Survey Analysis | DAX | Data Storytelling
 
-**Dashboard:**
-![Data Professional Survey](data-professional-survey.png)
 
 **Overview:**
 Analyzed survey of 630 data professionals worldwide (Average Age: 29.87) to understand job market, salary, skills, and job satisfaction.
